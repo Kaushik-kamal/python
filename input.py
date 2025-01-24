@@ -1,0 +1,7 @@
+name = input("enter your name :")
+age = int(input("enter ypur age:"))
+avgmarks = float(input("enter your avgmarks"))
+print(type(name), type(age), type(avgmarks))
+print(name)
+print(age)
+print(avgmarks)
